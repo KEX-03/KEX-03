@@ -2,7 +2,7 @@
 
 ## Hi, I'm Vivek 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=Vivek+Sharma;Frontend+%26+Full-Stack+Developer;React+%E2%80%A2+Tailwind+%E2%80%A2+TypeScript;Building+Interfaces+That+Make+Sense)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=Vivek+Sharma;Frontend+%26+Full-Stack+Developer;React+%E2%80%A2+Tailwind+%E2%80%A2+TypeScript;Building+Interfaces+That+Make+Sense)](https://git.io/typing-svg)
 
 <br/>
 
