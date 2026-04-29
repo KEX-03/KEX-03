@@ -24,7 +24,7 @@ Frontend-focused web developer who turns complex interaction logic into clean, i
 Currently studying **B.C.A. at Chandigarh University** and actively building toward a stronger full-stack foundation while sharpening my frontend engineering skills on real projects.
 
 ```
-📍 Hisar, Haryana, India
+📍 Chandigarh, India
 🎓 Bachelor of Computer Applications — Chandigarh University
 💼 Open to Frontend / Full-Stack Internships
 ```
