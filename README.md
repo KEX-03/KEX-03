@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4AA&height=180&section=header&text=Vivek%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20%26%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=d0d0ff&animation=fadeIn" width="100%" />
+## Hi, I'm Vivek 👋
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=React+%E2%80%A2+Tailwind+%E2%80%A2+TypeScript;UI%2FUX+Focused+%E2%80%A2+Clean+Architecture;Building+Interfaces+That+Actually+Make+Sense)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Vivek+Sharma;Frontend+%26+Full-Stack+Developer;React+%E2%80%A2+Tailwind+%E2%80%A2+TypeScript;Building+Interfaces+That+Make+Sense)](https://git.io/typing-svg)
 
 <br/>
 
@@ -130,8 +128,6 @@ I'm open to **frontend internships**, **freelance projects**, and general collab
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:6C63FF&height=100&section=footer" width="100%" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KEX-03&color=6C63FF&style=flat-square&label=Profile+Views)](https://github.com/KEX-03)
 
