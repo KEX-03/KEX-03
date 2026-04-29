@@ -19,7 +19,7 @@
 
 Frontend-focused web developer who turns complex interaction logic into clean, intuitive interfaces. I care about what happens *under the hood* — not just making things look good, but making sure the architecture holds up too.
 
-**B.C.A. at Chandigarh University** and actively building toward a stronger full-stack foundation while sharpening my frontend engineering skills on real projects.
+**B.C.A. from Chandigarh University** and actively building toward a stronger full-stack foundation while sharpening my frontend engineering skills on real projects.
 
 ```
 📍 Chandigarh, India
