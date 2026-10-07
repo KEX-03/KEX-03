@@ -57,7 +57,7 @@ When I'm not at work, I'm usually digging through someone else's codebase. I gen
 |---|---|---|
 | **[TaskFlow](https://taskflow-plum-one.vercel.app)** | Full-stack task manager with real-time UI updates, a RESTful API, and Dockerized deploys | React, TypeScript, Node.js, Express, MongoDB, Docker |
 | **[react-big-schedule](https://github.com/ansulagrawal/react-big-schedule)** *(open source)* | Merged PRs to a real-time scheduling library: cut redundant re-renders and fixed stale closures ([#327](https://github.com/ansulagrawal/react-big-schedule/pull/327)), added multi-resource event creation via drag-selection ([#336](https://github.com/ansulagrawal/react-big-schedule/pull/336)), and fixed a UTC offset bug in Month view ([#356](https://github.com/ansulagrawal/react-big-schedule/pull/356)) | React, JavaScript |
-| **[Finlens]()** | Personal finance dashboard with custom Canvas charts, RBAC, dark/light theming | React, Vite |
+| **[Finlens](https://finlens-seven.vercel.app/)** | Personal finance dashboard with custom Canvas charts, RBAC, dark/light theming | React, Vite |
 | **FlowNote** | Notion-inspired block-based editor with keyboard-driven interaction logic | React, JavaScript |
 
 ---
