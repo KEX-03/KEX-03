@@ -2,14 +2,14 @@
 
 ## Hi, I'm Vivek 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=Vivek+Sharma;Software+Engineer+%40+Fyn+Mobility;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Interfaces+That+Make+Sense)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=Vivek+Sharma;Software+Engineer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Interfaces+That+Make+Sense)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kex03)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kex03.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KEX-03)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvk.shrma.03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viveksharma03@yahoo.com)
 
 </div>
 
@@ -26,7 +26,7 @@ When I'm not at work, I'm usually digging through someone else's codebase. I gen
 ```
 💼 Associate Software Engineer @ Fyn Mobility
 🎓 Bachelor of Computer Applications, Chandigarh University (2026)
-🌱 Open-source contributor: react-big-schedule
+🌱 Open-source contributor
 🎯 Seeking SWE roles in Delhi NCR & Tricity
 ```
 
