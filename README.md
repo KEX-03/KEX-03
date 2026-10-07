@@ -2,7 +2,7 @@
 
 ## Hi, I'm Vivek 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=Vivek+Sharma;Frontend+%26+Full-Stack+Developer;React+%E2%80%A2+Tailwind+%E2%80%A2+TypeScript;Building+Interfaces+That+Make+Sense)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=160&lines=Vivek+Sharma;Software+Engineer+%40+Fyn+Mobility;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Interfaces+That+Make+Sense)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,15 +17,37 @@
 
 ## 👋 About Me
 
-Frontend-focused web developer who turns complex interaction logic into clean, intuitive interfaces. I care about what happens *under the hood* — not just making things look good, but making sure the architecture holds up too.
+Software Engineer building scalable, performant web and mobile apps with **React, Next.js, React Native, TypeScript, and Node.js**. I care about what happens *under the hood*: render performance, accessibility, and architecture that holds up as a product grows, not just interfaces that look good.
 
-**B.C.A. from Chandigarh University** and actively building toward a stronger full-stack foundation while sharpening my frontend engineering skills on real projects.
+Currently at **Fyn Mobility**, shipping Infynity's Next.js website and the SDK integrations, install attribution, and push notifications behind its mobile app.
+
+When I'm not at work, I'm usually digging through someone else's codebase. I genuinely enjoy contributing to open source; it's where I've learned the most about reading unfamiliar code and shipping changes other people depend on.
 
 ```
-📍 Chandigarh, India
-🎓 Bachelor of Computer Applications — Chandigarh University
-💼 Open to Frontend / Full-Stack Internships
+💼 Associate Software Engineer @ Fyn Mobility
+🎓 Bachelor of Computer Applications, Chandigarh University (2026)
+🌱 Open-source contributor: react-big-schedule
+🎯 Seeking SWE roles in Delhi NCR & Tricity
 ```
+
+---
+
+## 💼 Experience
+
+**Associate Software Engineer @ Fyn Mobility** *(May 2026 – Present)*
+- Built and shipped Infynity's multi-page Next.js website, including a blog with dynamic routing, reusable layouts, and SEO-optimised metadata
+- Integrated the JAR DigiGold SDK, enabling in-app digital gold investment for blue-collar and gig workers
+- Integrated the Meta SDK for event tracking and install attribution (UTM via Google Play Install Referrer API); shipped FCM push notifications with deep links
+- Resolved production bugs across date validation, i18n, and input handling on iOS and Android
+
+**Software Engineer Intern (Frontend) @ Red Tree** *(Aug 2025 – Mar 2026)*
+- Delivered 10+ customer-facing features in React and TypeScript, from design handoff to production
+- Cut render cost with `useMemo`, `useCallback`, lazy loading, and code splitting; fixed stale-closure bugs in key views
+- Integrated 5+ REST APIs with JWT auth and structured error handling
+
+**Web Design Intern @ AICTE-Eduskills** *(Jan 2025 – Apr 2025)*
+- Delivered 8+ responsive, accessible layouts from Figma prototypes using HTML5, CSS3, and Tailwind CSS
+- Applied semantic HTML and ARIA for accessibility compliance
 
 ---
 
@@ -33,23 +55,10 @@ Frontend-focused web developer who turns complex interaction logic into clean, i
 
 | Project | Description | Stack |
 |---|---|---|
-| **TaskFlow** | Full-stack task management system with REST API + MongoDB persistence | React, Node.js, Express, MongoDB |
+| **[TaskFlow](https://taskflow-plum-one.vercel.app)** | Full-stack task manager with real-time UI updates, a RESTful API, and Dockerized deploys | React, TypeScript, Node.js, Express, MongoDB, Docker |
+| **[react-big-schedule](https://github.com/ansulagrawal/react-big-schedule)** *(open source)* | Merged PRs to a real-time scheduling library: cut redundant re-renders and fixed stale closures ([#327](https://github.com/ansulagrawal/react-big-schedule/pull/327)), added multi-resource event creation via drag-selection ([#336](https://github.com/ansulagrawal/react-big-schedule/pull/336)), and fixed a UTC offset bug in Month view ([#356](https://github.com/ansulagrawal/react-big-schedule/pull/356)) | React, JavaScript |
+| **[Finlens]()** | Personal finance dashboard with custom Canvas charts, RBAC, dark/light theming | React, Vite |
 | **FlowNote** | Notion-inspired block-based editor with keyboard-driven interaction logic | React, JavaScript |
-| **Finlens** | Personal finance dashboard with custom Canvas charts, RBAC, dark/light theming | React, Vite |
-
----
-
-## 💼 Experience
-
-**Web Development Intern @ Red Tree** *(Aug 2025 – Mar 2026)*
-- Built and optimized responsive web interfaces using reusable component architecture
-- Integrated REST APIs with structured client–server data flow
-- Improved UI consistency through scalable layout systems and responsive breakpoints
-
-**Web Design Intern @ AICTE-Eduskills** *(Jan 2025 – Apr 2025)*
-- Translated Figma designs into functional UI components (HTML, CSS, modern frontend)
-- Focused on visual hierarchy, spacing systems, and typography consistency
-- Improved cross-device responsiveness and accessibility
 
 ---
 
@@ -76,6 +85,13 @@ Frontend-focused web developer who turns complex interaction logic into clean, i
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+**Databases & Backend Services**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 **Tooling & Platforms**
 
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -84,8 +100,6 @@ Frontend-focused web developer who turns complex interaction logic into clean, i
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
@@ -119,11 +133,11 @@ Frontend-focused web developer who turns complex interaction logic into clean, i
 
 ## 🤝 Let's Connect
 
-I'm open to **frontend internships**, **freelance projects**, and general collabs. If you're working on something interesting or just want to talk shop — reach out.
+I'm currently looking for **Software Engineering roles in and around Delhi NCR or Tricity (Chandigarh, Panchkula, Mohali)**. If your team is hiring, or you're working on something interesting (open-source maintainers, that includes you), I'd love to hear from you.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kex03)
 [![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvk.shrma.03@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_my_Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vivek003portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/View_my_Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-kex03.vercel.app/)
 
 ---
 
