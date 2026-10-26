@@ -27,7 +27,6 @@ When I'm not at work, I'm usually digging through someone else's codebase. I gen
 💼 Associate Software Engineer @ Fyn Mobility
 🎓 Bachelor of Computer Applications, Chandigarh University (2026)
 🌱 Open-source contributor
-🎯 Seeking SWE roles in Delhi NCR & Tricity
 ```
 
 ---
